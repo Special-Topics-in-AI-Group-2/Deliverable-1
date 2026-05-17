@@ -96,4 +96,4 @@ All fusion, metrics, evaluation, and Optuna wrappers are unchanged.
 | Salem Hafez       |  AutoML retriever / Optuna HPO    |
 | Essa Alshamsi     | Dense retrieval & hybrid fusion   |
 | Yousef Al Refaie  | Online learner / River + ADWIN    |
-| Abdulla Alshaiba  | Evaluation, visualisation & repor |
+| Abdulla Alshaiba  | Evaluation, visualisation & report|
