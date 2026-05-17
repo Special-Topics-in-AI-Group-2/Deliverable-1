@@ -92,7 +92,8 @@ All fusion, metrics, evaluation, and Optuna wrappers are unchanged.
 
 | Member  | Owns                                        |
 |---------|---------------------------------------------|
-| [Name]  | data_utils.py, retriever.py                 |
-| [Name]  | automl_utils.py, run_d1.py                  |
-| [Name]  | online_learner.py, figures/                 |
-| [Name]  | metrics.py, evaluation.py, report           |
+| Ghaith Alneaimi   | Data pipeline & corpus builder    |
+| Salem Hafez       |  AutoML retriever / Optuna HPO    |
+| Essa Alshamsi     | Dense retrieval & hybrid fusion   |
+| Yousef Al Refaie  | Online learner / River + ADWIN    |
+| Abdulla Alshaiba  | Evaluation, visualisation & repor |
